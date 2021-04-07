@@ -1,0 +1,22 @@
+h1{
+	background-color:green;
+	color:white;
+	padding:20px;
+}
+form{
+	position:absolute;
+	top:140px;
+	left:500px;
+	color:white;
+	background-color:black;
+	border-radius:15px;
+	
+	padding:15px;
+}
+input {
+ height: 25px;
+}
+#download{
+	width:200px;
+	height:px;
+}
